@@ -9,9 +9,9 @@ As far as languages I can use:
 - Lua
 .... that list continues on. I'm not a master in any of those, but I program enough to adapt to whatever language I need to use.
 
-Got any recommendations for tweaks to the configs/forks I keep up here? \n
-If it's a functionality thing, I'd love to hear it. \n
-If it's just personal preference... I mean why not, lemme know.
+<p>Got any recommendations for tweaks to the configs/forks I keep up here? </p>
+<p>If it's a functionality thing, I'd love to hear it. </p>
+<p>If it's just personal preference... I mean why not, lemme know. </p>
 
 <!---
 Liam-Malone/Liam-Malone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
