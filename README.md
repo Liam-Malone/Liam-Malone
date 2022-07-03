@@ -9,8 +9,8 @@ As far as languages I can use:
 - Lua
 .... that list continues on. I'm not a master in any of those, but I program enough to adapt to whatever language I need to use.
 
-Got any recommendations for tweaks to the configs/forks I keep up here? 
-If it's a functionality thing, I'd love to hear it. 
+Got any recommendations for tweaks to the configs/forks I keep up here? \n
+If it's a functionality thing, I'd love to hear it. \n
 If it's just personal preference... I mean why not, lemme know.
 
 <!---
