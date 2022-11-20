@@ -1,13 +1,8 @@
-I keep configs/forks I use personally up here.
-Copy if you like.
+***I keep configs/forks I use personally up here.***
 
-As far as languages I can use:
-- Python
-- Rust
-- Bash scripting
-- C
-- Lua
-.... that list continues on. I'm not a master in any of those, but I program enough to adapt to whatever language I need to use.
+**Copy if you like.**
+
+I like rust. I like it a lot.
 
 <p>Got any recommendations for tweaks to the configs/forks I keep up here? </p>
 <p>If it's a functionality thing, I'd love to hear it. </p>
