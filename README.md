@@ -2,11 +2,10 @@
 
 **Copy if you like.**
 
-I like rust. I like it a lot.
+*Oh, and I like rust.*
 
-<p>Got any recommendations for tweaks to the configs/forks I keep up here? </p>
-<p>If it's a functionality thing, I'd love to hear it. </p>
-<p>If it's just personal preference... I mean why not, lemme know. </p>
+*I like it a lot.*
+
 
 <!---
 Liam-Malone/Liam-Malone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
