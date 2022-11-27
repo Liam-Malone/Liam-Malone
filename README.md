@@ -3,13 +3,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-***I keep configs/forks I use personally up here.***
 
-**Copy if you like.**
+**Not sure what to include here.**
 
-*Oh, and I like rust.*
-
-*I like it a lot.*
+I like writing stuff in rust.
+I have my personal forks, configs and projects up here.
 
 
 <!---
