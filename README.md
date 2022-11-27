@@ -1,3 +1,7 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liam-Malone)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ***I keep configs/forks I use personally up here.***
 
 **Copy if you like.**
