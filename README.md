@@ -6,7 +6,8 @@
 
 **Not sure what to include here.**
 
-I like writing stuff in rust.
+I like writing stuff in rust - working through Luca Palmieri's 'Zero to Production in Rust' and having a lot of fun.
+
 I have my personal forks, configs and projects up here.
 
 
