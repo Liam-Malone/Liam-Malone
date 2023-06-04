@@ -4,12 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&langs_count=5&hide=roff,scheme&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**Not sure what to include here.**
+# hello there
 
 I like writing stuff in rust - working through Luca Palmieri's 'Zero to Production in Rust' and having a lot of fun.
-
-I have my personal forks, configs and projects up here.
-
 
 <!---
 Liam-Malone/Liam-Malone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
