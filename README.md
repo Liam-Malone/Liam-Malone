@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&langs_count=5&hide=roff,scheme&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# hello there
+# Hello there
 
 I like writing stuff in rust - working through Luca Palmieri's 'Zero to Production in Rust' and having a lot of fun.
 
