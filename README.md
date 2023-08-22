@@ -6,8 +6,7 @@
 
 # Hello there
 
-I like writing stuff in rust - working through Luca Palmieri's 'Zero to Production in Rust' and having a lot of fun.
-
+I like Rust and I like Zig, currently focusing more on the latter
 <!---
 Liam-Malone/Liam-Malone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
