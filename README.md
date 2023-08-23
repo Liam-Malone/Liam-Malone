@@ -18,9 +18,10 @@ Currently I'm diving deeper and deeper into Zig and having a lot of fun
 - Rust (My most-used by far)
 - Zig (May overtake my Rust use... we'll see)
 - Java (College, kept off of github)
-- Cpp (College and other, kept off of github)
+- C++ (College and other, kept off of github)
 - C (Mostly maintaining my DWM fork)
 - Python (Self-taught, and the only one I've committed to any production system, mostly not on github)
+- Lua (Mostly scripts for the ComputerCraft mod for Minecraft... kept those on Pastebin)
 - HTMX (It's great! though again... mostly not on my github anywhere)
 - JS (I made one shitty discord bot, thankfully this is the only JS repo I have)
 
