@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats-14egec6qc-liam-malone.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&langs_count=6&hide=roff,Scheme,Makefile&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-14egec6qc-liam-malone.vercel.app/api?username=Liam-Malone&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-14egec6qc-liam-malone.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&langs_count=6&layout=pie&hide=roff,Scheme,Makefile&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-14egec6qc-liam-malone.vercel.app/api?username=Liam-Malone&count_private=true&theme=panda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # I'm Liam
