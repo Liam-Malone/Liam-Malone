@@ -6,9 +6,9 @@
 
 I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many languages (programming and human/spoken)
 
-Currently I'm diving deeper and deeper into Zig and having a lot of fun
+Currently I'm diving deeper and deeper into Zig (using it for game development) and having a lot of fun
 
-(_I was all-in on Rust for a while, but the language is hard and I need a bit of a break, I will return to it though_)
+(_I was all-in on Rust for a while, but the language is quite hard and I need a bit of a break, I will return to it though_)
 > (_I have Luca Palmieri's [`Zero to Production in Rust`](https://www.zero2prod.com) sitting on my desk_)
 
 <br>
@@ -16,7 +16,7 @@ Currently I'm diving deeper and deeper into Zig and having a lot of fun
 ### Programming Languages:
 
 - Rust (My most-used by far)
-- Zig (May overtake my Rust use... we'll see)
+- Zig (Been making some small games)
 - Java (College, kept off of github)
 - C++ (College and other, kept off of github)
 - C (Mostly maintaining my DWM fork)
