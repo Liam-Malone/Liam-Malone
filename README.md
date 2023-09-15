@@ -4,7 +4,7 @@
 
 # I'm Liam
 
-I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many languages (programming and human/spoken)
+I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many languages (programming and spoken)
 
 Currently I'm diving deeper and deeper into Zig (using it for game development) and having a lot of fun
 
