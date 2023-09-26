@@ -8,7 +8,7 @@ I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many
 
 Currently I'm diving deeper and deeper into Zig (using it for game development) and having a lot of fun
 
-(_I was all-in on Rust for a while, but the language is quite hard and I need a bit of a break, I will return to it though_)
+(_I was all-in on Rust for a while, but the language is quite hard and I need a bit of a break - I *will* return to it though_)
 > (_I have Luca Palmieri's [`Zero to Production in Rust`](https://www.zero2prod.com) sitting on my desk_)
 
 <br>
