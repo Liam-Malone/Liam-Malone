@@ -6,23 +6,19 @@
 
 I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many languages (programming and spoken)
 
-Currently I'm diving deeper and deeper into Zig (using it for game development) and having a lot of fun
-
-(_I was all-in on Rust for a while, but the language is quite hard and I need a bit of a break - I *will* return to it though_)
-> (_I have Luca Palmieri's [`Zero to Production in Rust`](https://www.zero2prod.com) sitting on my desk_)
+Currently I'm diving into Zig and having a lot of fun
 
 <br>
 
 ### Programming Languages:
 
-- Rust (My most-used by far)
-- Zig (Been making some small games)
-- Java (College, kept off of github)
-- C++ (College and other, kept off of github)
-- C (Mostly maintaining my DWM fork)
-- Python (Self-taught, and the only one I've committed to any production system, mostly not on github)
-- Lua (Mostly scripts for the ComputerCraft mod for Minecraft... kept those on Pastebin)
-
+- Rust
+- Zig
+- Java
+- C++
+- C
+- Python
+- Lua
 
 
 ### Spoken Languages:
