@@ -12,11 +12,11 @@ Currently I'm diving into Zig and having a lot of fun
 
 ### Programming Languages:
 
-- Rust
 - Zig
-- Java
+- Rust
 - C++
 - C
+- Java
 - Python
 - Lua
 
