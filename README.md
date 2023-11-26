@@ -6,8 +6,6 @@
 
 I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many languages (programming and spoken)
 
-Currently I'm diving into Zig and having a lot of fun
-
 <br>
 
 ### Programming Languages:
