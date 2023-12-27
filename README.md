@@ -4,31 +4,19 @@
 
 # I'm Liam
 
-I'm a Comp Sci (also Linguistics and Spanish) student who plays around with many languages (programming and spoken)
+Aspiring game dev (indie or otherwise), very interested in learning technical things.
+
+Currently a student of CSLL (Comp Sci, Linguistics, Language) at Trinity College Dublin.
+
+These days I'm mostly writing things in Zig, pulling in Raylib as a dependency for any graphical applications. 
 
 <br>
 
-### Programming Languages:
+## My Favorite Languages
 
-- Zig
-- Rust
-- C++
+- Zig⚡️
 - C
-- Java
-- Python
+- C++
 - Lua
-
-
-### Spoken Languages:
-
-- English (Native)
-- Spanish (Fluent)
-- Irish (School + self-taught, I like to think pretty fluent)
-- Japanese (Low-level conversational)
-
-
-<br>
-
-<br>
-
-> Why you reading down all the way here? this is a github account where I store a small amount of the code I actually write
+- Rust
+- Bash
