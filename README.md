@@ -17,6 +17,5 @@ These days I'm mostly writing things in Zig, pulling in Raylib as a dependency f
 - Zig⚡️
 - C
 - C++
-- Lua
 - Rust
 - Bash
