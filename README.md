@@ -4,11 +4,9 @@
 
 # I'm Liam
 
-Aspiring game dev (indie or otherwise), very interested in learning technical things.
+Game dev, very interested in learning technical things and working on low-level systems.
 
-Currently a student of CSLL (Comp Sci, Linguistics, Language) at Trinity College Dublin.
-
-These days I'm mostly writing things in Zig, pulling in Raylib as a dependency for any graphical applications. 
+Currently a student of CSLL (Computer Science, Linguistics and a Language) at Trinity College Dublin.
 
 <br>
 
@@ -18,5 +16,5 @@ These days I'm mostly writing things in Zig, pulling in Raylib as a dependency f
 - C
 - Lua
 - Rust
-- C++
 - Bash
+- C++
