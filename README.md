@@ -1,7 +1,7 @@
-[![Top Langs](https://github-readme-stats-l1dz-lt4g6fm6o-liammalones-projects.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&hide=roff,HTML,javascript,Scheme,Makefile,CSS,Java,emacs%20lisp&theme=panda&exclude_repo=slstatus,dmenu,dwm,vulnerable-repo,another-gui-app)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-l1dz-lt4g6fm6o-liammalones-projects.vercel.app/api?username=Liam-Malone&count_private=true&theme=panda&show_icons=true&hide_title=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-l1dz-kcogum9oi-liammalones-projects.vercel.app/api/top-langs/?username=Liam-Malone&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&hide=roff,HTML,javascript,Scheme,Makefile,CSS,Java,emacs%20lisp&theme=panda&exclude_repo=slstatus,dmenu,dwm,vulnerable-repo,another-gui-app)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-l1dz-kcogum9oi-liammalones-projects.vercel.app/api?username=Liam-Malone&count_private=true&theme=panda&show_icons=true&hide_title=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-
+https://github-readme-stats-l1dz-kcogum9oi-liammalones-projects.vercel.app/
 # I'm Liam
 
 Game dev, very interested in learning technical things and working on low-level systems.
