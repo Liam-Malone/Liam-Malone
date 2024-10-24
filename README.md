@@ -9,11 +9,11 @@ Currently a student of CSLL (Computer Science, Linguistics and a Language) at Tr
 
 <br>
 
-## My Favorite Languages
+## My Top Languages
 
 - Zig⚡️
 - C
 - Lua
-- Rust
 - Bash
+- Rust
 - C++
