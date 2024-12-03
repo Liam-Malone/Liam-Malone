@@ -15,5 +15,4 @@ Currently a student of CSLL (Computer Science, Linguistics and a Language) at Tr
 - C
 - Lua
 - Bash
-- Rust
 - C++
